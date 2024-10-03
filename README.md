@@ -1,1 +1,2 @@
 # Case-Study-on-Google-Play-Store
+This case study investigates the Google Play Store and focuses on understanding various factors that influence app performance and user experience. The study dives into app ratings, user reviews, app size, the number of installs, and how these aspects differ across genres. This analysis will provide valuable insights into how developers and app marketers can optimize their apps for better user engagement and overall success.
